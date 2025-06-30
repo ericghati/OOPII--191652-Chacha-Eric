@@ -1,6 +1,5 @@
 package Account;
 
-<<<<<<< HEAD
 public class View implements DataSource {
 
     @Override
@@ -12,16 +11,3 @@ public class View implements DataSource {
     }
 
 }
-=======
-public class View implements DataSource {
-
-    @Override
-
-    public void execute() {
-
-        System.out.println("Some data to be displayed...");
-
-    }
-
-}
->>>>>>> origin/master

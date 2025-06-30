@@ -1,3 +1,5 @@
+package Challenge1;
+
 public class Variables {
 
     void PowerConsumption(){
