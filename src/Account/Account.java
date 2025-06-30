@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+package Account;
 abstract public class Account {
 
     protected int id;
@@ -12,6 +12,4 @@ abstract public class Account {
 }
 
 
-=======
 
->>>>>>> origin/master

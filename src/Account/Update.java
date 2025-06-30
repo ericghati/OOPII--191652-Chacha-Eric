@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-public class Update implements DataSource{
+package Account;
+
+public class Update implements DataSource {
 
     @Override
 
@@ -10,16 +11,4 @@ public class Update implements DataSource{
     }
 
 }
-=======
-public class Update implements DataSource{
 
-    @Override
-
-    public void execute() {
-
-        System.out.println("Data has updated Successfully!");
-
-    }
-
-}
->>>>>>> origin/master
