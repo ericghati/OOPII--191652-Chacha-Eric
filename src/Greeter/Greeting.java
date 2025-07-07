@@ -1,4 +1,4 @@
-package Challenge1;
+package Greeter;
 
 public class Greeting {
     void greet(){
